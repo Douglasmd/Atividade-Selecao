@@ -1,0 +1,1 @@
+Adicionei números de jogadores dentro de camisas de futebol para representar cada jogador na página. Isso foi feito usando CSS para definir a imagem da camisa como plano de fundo e SVG para adicionar dinamicamente o número do jogador
